@@ -1,13 +1,16 @@
-layout: post
-title: WHEN TO USE HASHES AND ARRAYS
-date: 2015-11-12 16:39:18
-comments: true
-description: "A COMMENTARY ABOUT HASHES AND ARRAYS"
-keywords: "HASHES"
-- 
-tags:
-COOL
 ---
+layout: post
+title: "Hashes and Arrays"
+date: 2016-2-18 16:41:50
+comments: true
+description: "Commentary about Hashes and Arrayst,"
+keywords: "Hashes"
+categories:
+- hash
+tags:
+- welcome
+---
+
 Hashes and arrays appear to be very similar things in coding, but in reality are quite different. Because they are somewhat similar they can sometimes be be used interchangeably, but there are certainly instances in which an array or a hash has the advantage. In ruby, an array is kind of like a list of variables. Contained between two brackets, information is numbered and can be called upon within an array. Each piece of information within the array is separated, and assigned a number(the numbering starts at zero). Simply put, an array is a list that is in a numbered order.
 
 Hashes look very similar to arrays; they too are lists where information is stored, but in arrays information can be assigned to other information. Within a hash there is information that is assigned to other information. It is almost like there is an input and output within the hash. This means that numbers can be assigned to other numbers within a hash, and strings can be assigned to other strings within a hash. For example I could assign the word dog to beagle in a hash, meaning that these two words are connected.
